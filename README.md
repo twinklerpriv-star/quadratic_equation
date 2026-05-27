@@ -1,6 +1,6 @@
-# Quadratische Gleichung lösen
+# Quadratische und lineare Gleichungen lösen
 
-Löst die quadratische Gleichung **ax² + bx + c = 0** und gibt **reelle oder komplexe Lösungen** zurück.
+Löst quadratische Gleichungen **ax² + bx + c = 0** sowie lineare Sonderfälle (**a = 0**) und gibt **reelle oder komplexe Lösungen** bzw. entsprechende Statusmeldungen zurück.
 
 ---
 
